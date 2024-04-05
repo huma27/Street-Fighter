@@ -1,5 +1,5 @@
 # Street-Fighter
 
 Group Members:
-Alexandra Hansen
-Huma Mamnoon
+Alexandra Hansen: adh122@pitt.edu
+Huma Mamnoon: hum27@pitt.edu
